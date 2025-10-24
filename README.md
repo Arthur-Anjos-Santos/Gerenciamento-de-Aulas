@@ -15,7 +15,7 @@ Aplicacao fullstack para gerenciamento e participacao em aulas online usando Dja
 - [Usuários de teste](#usuarios-de-teste)
 - [Scripts uteis](#scripts-uteis)
 - [URLs uteis](#urls-uteis)
-- [Problemas comuns](#problemas-comuns)
+- [Avisos Importantes](#avisos-importantes)
 
 ## Arquitetura
 - Backend (porta 8000): APIs REST, autenticacao JWT, documentacao Swagger/Redoc, upload de avatar e contagem de inscritos.
