@@ -7,12 +7,12 @@ Aplicacao fullstack para gerenciamento e participacao em aulas online usando Dja
 
 ## Sumario
 - [Arquitetura](#arquitetura)
-- [Prerequisitos](#prerequisitos)
-- [Configuracao de ambiente](#configuracao-de-ambiente)
-- [Execucao com Docker](#execucao-com-docker)
-- [Execucao local](#execucao-local)
+- [Pre-requisitos](#prerequisitos)
+- [Configuração de ambiente](#configuracao-de-ambiente)
+- [Execução com Docker](#execucao-com-docker)
+- [Execução local](#execucao-local)
 - [Seed de dados](#seed-de-dados)
-- [Usuarios de teste](#usuarios-de-teste)
+- [Usuários de teste](#usuarios-de-teste)
 - [Scripts uteis](#scripts-uteis)
 - [URLs uteis](#urls-uteis)
 - [Problemas comuns](#problemas-comuns)
